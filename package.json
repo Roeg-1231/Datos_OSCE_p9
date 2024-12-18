@@ -1,0 +1,26 @@
+{
+  "name": "api_datos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roeg-1231/Datos_OSCE_p3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roeg-1231/Datos_OSCE_p3/issues"
+  },
+  "homepage": "https://github.com/Roeg-1231/Datos_OSCE_p3#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
