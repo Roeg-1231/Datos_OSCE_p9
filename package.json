@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Roeg-1231/Datos_OSCE_p3.git"
+    "url": "git+https://github.com/Roeg-1231/Datos_OSCE_p9.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Roeg-1231/Datos_OSCE_p3/issues"
+    "url": "https://github.com/Roeg-1231/Datos_OSCE_p9/issues"
   },
-  "homepage": "https://github.com/Roeg-1231/Datos_OSCE_p3#readme",
+  "homepage": "https://github.com/Roeg-1231/Datos_OSCE_p9#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.21.2",
